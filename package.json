@@ -2,7 +2,7 @@
   "name": "first-server",
   "version": "1.0.0",
   "description": "learning async await and made for piaic",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
