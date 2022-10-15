@@ -1,0 +1,22 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "learning async await and made for piaic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shehza-d/first-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shehza-d/first-server/issues"
+  },
+  "homepage": "https://github.com/shehza-d/first-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
